@@ -1,10 +1,13 @@
 package zzzzzzzzzzzzzz;
 
 public class Test {
-  System.out.println("hello");
-  System.out.println("hello");
-  System.out.println("hello");
-  System.out.println("Ò²ÊÇ");
+	public static void main(String[] args) {
+		 System.out.println("hello");
+		  System.out.println("hello");
+		  System.out.println("hello");
+		  System.out.println("ä¸–ç•Œ");
+	}
+ 
   
   
 
